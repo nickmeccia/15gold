@@ -15,4 +15,4 @@
   (->
     motion_comic-routes
     (wrap-view-context :template-root "motion_comic/view" :ns `motion_comic.view.view-helpers)))
-
+ 
